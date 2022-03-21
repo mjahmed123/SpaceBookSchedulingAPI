@@ -1,6 +1,8 @@
 # SpaceBook Scheduling Backend API
 API used to schedule a date and time for posts to be sent.
 
+Link to this repository: https://github.com/mjahmed123/SpaceBookSchedulingAPI
+
 ## Setup
 1. Clone this repo using the command `git clone https://github.com/mjahmed123/SpaceBookSchedulingAPI.git`
 2. Navigate to the directory using `cd SpaceBookSchedulingAPI`
